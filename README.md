@@ -22,7 +22,7 @@ To test the project please go to the following link: <a href="https://portilloro
 
 ## Tech using in this project
 
-**Language:** JavaScript
+**Language:** HTML, CSS, JavaScript
 
 **Server:** Github
 
