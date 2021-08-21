@@ -6,7 +6,7 @@ I'm Python and JavaScript Developer... Although my native programming language i
 
 ## 🛠 Skills
 
-Python, Javascript, HTML, CSS, Git, Unit Testing, Asynchronous programming, Django, API RestFul, Django Rest FrameWork, Machine learning, Deep Learning, etc.
+Python, Javascript, HTML, CSS, Git, Unit Testing, Asynchronous programming, Django, API RESTFul, Django Rest FrameWork, Machine learning, Deep Learning, etc.
 
 # Project
 
