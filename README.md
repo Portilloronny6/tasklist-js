@@ -6,6 +6,8 @@ Este proyecto ha sido realizado por Ronny Portillo con la finalidad de tener un 
 
 Para acceder al proyecto por favor ir al siguiente enlace: <a href="https://portilloronny6.github.io/tasklist-js.github.io/" target="_blank">Proyecto</a>
 
+![Logo](Screenshot_2.png)
+
 ## Tech Stack
 
 **Language:** JavaScript
