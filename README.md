@@ -1,14 +1,26 @@
+# Hi, I'm Ronny! 👋
+
+## 👨🏾‍💻 About Me
+
+I'm Python and JavaScript Developer... Although my native programming language is Python 🐍.
+
+## 🛠 Skills
+
+Python, Javascript, HTML, CSS, Git, Unit Testing, Asynchronous programming, Django, API RestFul, Django Rest FrameWork, Machine learning, Deep Learning, etc.
+
+# Project
+
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://en.wikipedia.org/wiki/MIT_License)
 
-# Lista de tareas | JavaScript
+# Task List | JavaScript
 
-Este proyecto ha sido realizado por Ronny Portillo con la finalidad de tener un gestor de tareas.
+This project has been created by **Ronny Portillo** in order to have a task list.
 
-Para acceder al proyecto por favor ir al siguiente enlace: <a href="https://portilloronny6.github.io/tasklist-js.github.io/" target="_blank">Proyecto</a>
+To test the project please go to the following link: <a href="https://portilloronny6.github.io/tasklist-js.github.io/" target="_blank">Project</a>
 
 ![Logo](Screenshot_2.png)
 
-## Tech Stack
+## Tech using in this project
 
 **Language:** JavaScript
 
@@ -16,4 +28,4 @@ Para acceder al proyecto por favor ir al siguiente enlace: <a href="https://port
 
 ## Support
 
-For support, email portilloronny6@gmail.com or visit my personal website.
+For support, email portilloronny6@gmail.com or visit <a href="https://portilloronny6.github.io/website/" target="_blank">my personal website</a>.
