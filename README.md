@@ -16,7 +16,7 @@ Python, Javascript, HTML, CSS, Git, Unit Testing, Asynchronous programming, Djan
 
 This project has been created by **Ronny Portillo** in order to have a task list.
 
-To test the project please go to the following link: <a href="https://portilloronny6.github.io/tasklist-js.github.io/" target="_blank">Project</a>
+To test the project please go to the following link: <a href="https://portilloronny6.github.io/tasklist-js/" target="_blank">Project</a>
 
 ![Logo](Screenshot_2.png)
 
